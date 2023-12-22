@@ -1,4 +1,4 @@
-import Cart from '../components/Cart'
+import Cart from './components/Cart.jsx'
 import Context from './util/Context'
 
 
