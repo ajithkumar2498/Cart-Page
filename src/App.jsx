@@ -1,6 +1,6 @@
-import Cart from './components/Cart.jsx'
-import Context from './util/Context'
 
+import Context from './util/Context'
+import Cart from './components/cart'
 
 function App() {
 
